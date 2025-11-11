@@ -66,4 +66,4 @@ jobs:
       env:
         # Pasa el Token de GitHub. MkDocs lo necesita para autenticarse y subir
         # los archivos a la rama 'gh-pages' del repositorio.
-        GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        GH_TOKEN: jjhM8h+M0Ok1bmnG8yKorSsfHPh5pU1pBtArWg8PZt8
