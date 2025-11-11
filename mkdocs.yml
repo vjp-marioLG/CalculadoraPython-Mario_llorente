@@ -11,7 +11,7 @@ site_name: Documentación de Calculadora Python # Define el título que aparecer
 # Define la lista de enlaces y el orden de aparición en el menú de navegación principal.
 nav:
   # El nombre de la sección en el menú: nombre_archivo.md
-  - Home: index.md             # Primer elemento del menú, enlaza con el archivo 'index.md'.
+  - Home: docs/index.md             # Primer elemento del menú, enlaza con el archivo 'index.md'.
   - Uso: docs/guia_uso.md           # Segundo elemento del menú, enlaza con el archivo 'guia_uso.md'.
   # Se pueden añadir subsecciones anidando listas:
   # - Referencia: 
