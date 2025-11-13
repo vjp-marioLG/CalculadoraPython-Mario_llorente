@@ -29,4 +29,5 @@ sudo apt install python3-tk
 
 ## Problemas
 
-Si tienes algún problema [pincha aquí](https://example.com) o hsfjisodi
+Si tienes algún problema [pincha aquí](https://example.com)
+
